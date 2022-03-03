@@ -72,7 +72,7 @@ DB: MySQL
 Server: Naver Cloud Platform (CentOS 7) * 4 (DB, WAS, Web, Jenkins)
 ```
 
- - 지하철 사용자 예측 프로그램 (DB Project) [DBProject](https://github.com/yw7148/DB_Project)
+ - 지하철 사용자 예측 프로그램 (DB Project) [@DBProject](https://github.com/yw7148/DB_Project)
 ```
 인원: 3명
 역할: DB Schema 설계 및 개발자
